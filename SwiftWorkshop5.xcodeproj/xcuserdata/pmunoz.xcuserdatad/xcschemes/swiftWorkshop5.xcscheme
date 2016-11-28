@@ -17,7 +17,7 @@
                BlueprintIdentifier = "8A0ED27D1DEC448A00EB6144"
                BuildableName = "swiftWorkshop5.framework"
                BlueprintName = "swiftWorkshop5"
-               ReferencedContainer = "container:swiftWorkshop5.xcodeproj">
+               ReferencedContainer = "container:SwiftWorkshop5.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
                BlueprintIdentifier = "8A0ED2861DEC448A00EB6144"
                BuildableName = "swiftWorkshop5Tests.xctest"
                BlueprintName = "swiftWorkshop5Tests"
-               ReferencedContainer = "container:swiftWorkshop5.xcodeproj">
+               ReferencedContainer = "container:SwiftWorkshop5.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -45,7 +45,7 @@
             BlueprintIdentifier = "8A0ED27D1DEC448A00EB6144"
             BuildableName = "swiftWorkshop5.framework"
             BlueprintName = "swiftWorkshop5"
-            ReferencedContainer = "container:swiftWorkshop5.xcodeproj">
+            ReferencedContainer = "container:SwiftWorkshop5.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -67,7 +67,7 @@
             BlueprintIdentifier = "8A0ED27D1DEC448A00EB6144"
             BuildableName = "swiftWorkshop5.framework"
             BlueprintName = "swiftWorkshop5"
-            ReferencedContainer = "container:swiftWorkshop5.xcodeproj">
+            ReferencedContainer = "container:SwiftWorkshop5.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -85,7 +85,7 @@
             BlueprintIdentifier = "8A0ED27D1DEC448A00EB6144"
             BuildableName = "swiftWorkshop5.framework"
             BlueprintName = "swiftWorkshop5"
-            ReferencedContainer = "container:swiftWorkshop5.xcodeproj">
+            ReferencedContainer = "container:SwiftWorkshop5.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>
