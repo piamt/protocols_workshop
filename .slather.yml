@@ -1,4 +1,4 @@
 input_format: profdata
 coverage_service: coveralls
 xcodeproj: ./SwiftWorkshop5.xcodeproj
-scheme: swiftProtocolsAndGenerics
+scheme: swiftWorkshop5
